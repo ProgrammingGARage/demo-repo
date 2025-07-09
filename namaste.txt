@@ -1,2 +1,2 @@
 Namaste. this is a demo repository
-now in 2nd branch
+develop branch
